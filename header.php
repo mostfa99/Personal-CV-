@@ -1,9 +1,5 @@
 <?php 
     $conn =mysqli_connect('localhost','root','','pro'); 
-    // $mysqli = new mysqli("localhost", "my_user", "my_password", "db_name");
-    // mysqli_connect
-    // isset
-  
 ?>
 <!DOCTYPE html>
 <html lang="en">
