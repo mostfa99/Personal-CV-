@@ -107,7 +107,7 @@ CREATE TABLE IF NOT EXISTS `personal_info` (
 --
 
 INSERT INTO `personal_info` (`id`, `full_name`, `gender`, `date_birth`, `nationality`, `birth_place`, `job_title`, `ex_year`) VALUES
-(1, 'Amany abdall $ Aya abu marag', 'Female', '13rdMay.2000 & 8th Feb.2000', 'Palestinians', 'Gaza', 'Students', '1 years');
+(1, 'Mostfa  ', 'male', '8 May.2000', 'Palestinians', 'Gaza', 'Students', '1 years');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
